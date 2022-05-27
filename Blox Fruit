@@ -1,0 +1,25 @@
+repeat wait() until game:IsLoaded()
+Fruits = {
+"Dragon Fruit",
+"Soul Fruit",
+"Control Fruit",
+"Shadow Fruit",
+"Venom Fruit",
+"Dough Fruit",
+"Gravity Fruit",
+"Paw Fruit",
+"Rumble Fruit",
+"Bird: Phoenix Fruit",
+"Human: Buddha Fruit",
+"String Fruit",
+"Quake Fruit"
+}
+
+
+Webhook = "https://discord.com/api/webhooks/976712887429120040/EkEI-hmuA_QLiqBQE6Px1foDljRjFOr-SR7y_2D1jtneVkZV257SrCPwUcOcal1hZvfL"
+Store = true 
+Safeplace = true
+Repeat = true
+-----------------------------------------------------------------------
+loadstring(game:HttpGet"https://gist.githubusercontent.com/NotHubris/4e6fdc88d84c30afa9b28c590f273bbf/raw")()
+----Discord: https://discord.com/invite/mREnDtEdSN
